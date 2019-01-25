@@ -1,0 +1,24 @@
+.badge {
+    margin-left: 3px;
+  }
+.gantiHuruf{
+    font-family: "Coiny";
+  }
+.jarakKiri{
+    margin-left: 38%;
+  }
+.ukHuruf{
+    font-family: 'Libre Barcode 128 Text', cursive;
+    font-size: 6vh;
+  }
+.gambar{
+  background-image: url(ini.jpg);
+  
+}
+.ketengah{
+	margin: 10px auto;
+	width: 1150px;
+}
+ 
+ 
+
